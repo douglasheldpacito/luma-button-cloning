@@ -1,19 +1,30 @@
-# Welcome to React Router!
+## Preview
 
-A minimal template for experimenting with React Router v7.
+[Luma Button Clone](https://douglasheldpacito.github.io/luma-button-cloning/)
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/remix-run/react-router-templates/tree/main/minimal)
+## Luma Style Guide - Button Clone
 
-> ![NOTE]
-> This template should not be used for production apps and is intended more for experimentation and demo applications. Please see the [default](https://github.com/remix-run/react-router-templates/tree/main/default) template for a more full-featured template.
+This repository contains a cloned version of a specific button component from the [Luma Style Guide](https://lu.ma/style-guide/button).
 
-## Getting Started
+## Overview
 
-### Installation
+The button component was replicated from the Luma design system while allowing for customization and further development as needed.
 
-Install the dependencies:
+## Source
+
+Original design and guidelines can be found at:
+[Luma Style Guide - Button](https://lu.ma/style-guide/button)
+
+## Installation
+
+To use this button in your project, clone this repository and install dependencies:
 
 ```bash
+# Clone the repository
+git clone https://github.com/douglasheldpacito/luma-button-cloning.git
+cd luma-button-cloning
+
+# Install dependencies
 npm install
 ```
 
@@ -27,6 +38,10 @@ npm run dev
 
 Your application will be available at `http://localhost:5173`.
 
+## Customization
+
+Feel free to modify the styles, props, and behavior of the button to fit your needs.
+
 ---
 
-Built with ❤️ using React Router.
+Built with ❤️ using React Router V7.

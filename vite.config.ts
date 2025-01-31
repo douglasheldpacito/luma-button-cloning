@@ -10,4 +10,5 @@ export default defineConfig({
     },
   },
   plugins: [reactRouter(), tsconfigPaths()],
+  base: "/luma-button-cloning/",
 });
